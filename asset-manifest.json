@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clicky-game-pages/static/css/main.53ceb17c.chunk.css",
+    "main.js": "/clicky-game-pages/static/js/main.fa5c46d5.chunk.js",
+    "main.js.map": "/clicky-game-pages/static/js/main.fa5c46d5.chunk.js.map",
+    "runtime-main.js": "/clicky-game-pages/static/js/runtime-main.198c1d35.js",
+    "runtime-main.js.map": "/clicky-game-pages/static/js/runtime-main.198c1d35.js.map",
+    "static/js/2.378b37ea.chunk.js": "/clicky-game-pages/static/js/2.378b37ea.chunk.js",
+    "static/js/2.378b37ea.chunk.js.map": "/clicky-game-pages/static/js/2.378b37ea.chunk.js.map",
+    "index.html": "/clicky-game-pages/index.html",
+    "precache-manifest.7776d59a4fbb3da67777e9fd938f3a5c.js": "/clicky-game-pages/precache-manifest.7776d59a4fbb3da67777e9fd938f3a5c.js",
+    "service-worker.js": "/clicky-game-pages/service-worker.js",
+    "static/css/main.53ceb17c.chunk.css.map": "/clicky-game-pages/static/css/main.53ceb17c.chunk.css.map",
+    "static/js/2.378b37ea.chunk.js.LICENSE.txt": "/clicky-game-pages/static/js/2.378b37ea.chunk.js.LICENSE.txt",
+    "static/media/wrapper.css": "/clicky-game-pages/static/media/fondo2.529975ba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.198c1d35.js",
+    "static/js/2.378b37ea.chunk.js",
+    "static/css/main.53ceb17c.chunk.css",
+    "static/js/main.fa5c46d5.chunk.js"
+  ]
+}
